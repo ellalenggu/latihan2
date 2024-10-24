@@ -1,0 +1,46 @@
+/* Add styles here */
+body{
+    background-image: url(images/8ec288ab77ed3d8a02a237f0cb3f1528.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+    font-family:'Courier New', Courier, monospace
+}
+.navBar{
+    padding: 0px;
+    background-color:white;
+    opacity: 50%; 
+}
+#navBarMenu{
+    text-align: right;
+    padding: 5px;
+}
+ul.navBarMlist{
+    list-style: none;
+}
+ul.navBarMlist > li{
+    display: inline-block;
+    padding: 0px 7px 0px 7px;
+}
+ul.navBarMlist > li > a{
+    color: rgb(233, 11, 22);
+    text-decoration: none;
+}
+ul.navBarMlist > li > a:hover{
+    color:rgb(255, 0, 170);
+}
+.navBarBrand{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 10px black;
+    padding: 10px 5px 0px 20px;
+  
+}
+.text1{
+    font-size: 23px;
+    position: relative;`
+    top: 135px;
+    left: 5%
+}
